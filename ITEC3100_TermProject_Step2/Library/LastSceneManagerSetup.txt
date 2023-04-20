@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Anita's Reality/Anita's Reality Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
